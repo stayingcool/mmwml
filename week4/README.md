@@ -55,20 +55,6 @@ Recall (Pneumonia)      : 95.48% (For positive class)
 <!--Specificity             : -->
 </pre>
 
-##### Sample Output:  (TBD )
-<kbd>
-<img src=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/sample/sample.png>
-</kbd>
-
-<kbd>
-<a href=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/images/result.png>See More Images</a>
-</kbd>
-
-##### Confusion Matrix: (TBD)
-<kbd>
-<img src=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/report/CM.png alt="Confusion Matrix" width=800px height=600px>
-</kbd>
-
 #### Tools / Libraries
 <pre>
 Languages               : Python
