@@ -17,18 +17,12 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 #### Reference & Code Inspiration
 <pre>
 GitHub Link      : <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Detection of Pneumonia from Chest X-Ray Images(GitHub)</a>
-GitLab Link      : <a href=https://gitlab.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Detection of Pneumonia from Chest X-Ray Images(GitLab)</a>
-Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
 </pre>
 
 #### Dataset
 <pre>
 Dataset Name     : Chest X-Ray Images (Pneumonia)
-Dataset Link     : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) Dataset (Kaggle)</a>
-                 : <a href=https://data.mendeley.com/datasets/rscbjbr9sj/2>Chest X-Ray Images (Pneumonia) Dataset (Original Dataset)</a>
-Original Paper   : <a href=https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5>Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning</a>
-                   (Daniel S. Kermany, Michael Goldbaum, Wenjia Cai, M. Anthony Lewis, Huimin Xia, Kang Zhang)
-                   https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+Dataset Link     : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia>Chest X-Ray Images (Pneumonia) 
 </pre>
 
 <pre>
@@ -61,7 +55,7 @@ Recall (Pneumonia)      : 95.48% (For positive class)
 <!--Specificity             : -->
 </pre>
 
-##### Sample Output: 
+##### Sample Output:  (TBD )
 <kbd>
 <img src=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/sample/sample.png>
 </kbd>
@@ -70,7 +64,7 @@ Recall (Pneumonia)      : 95.48% (For positive class)
 <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/images/result.png>See More Images</a>
 </kbd>
 
-##### Confusion Matrix: 
+##### Confusion Matrix: (TBD)
 <kbd>
 <img src=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images/blob/master/demo/report/CM.png alt="Confusion Matrix" width=800px height=600px>
 </kbd>
@@ -84,7 +78,7 @@ Libraries               : Keras, TensorFlow, Inception, ImageNet
 
 #### Dates
 <pre>
-Duration                : October 2018 - Current
-Current Version         : v1.0.0.3
-Last Update             : 12.16.2018
+Duration                : September 2019 - Current
+Current Version         : v1.0.0.0
+Last Update             : 27.09.2019
 </pre>
